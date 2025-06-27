@@ -3,16 +3,18 @@ Bg kalau mau makai bot wa bebas ini cuman testi doang, copyright tertera di sc n
 
 # Run ini di termux
 
-pkg update && pkg upgrade/n
-pkg install git/n
-pkg install nodejs/n
-pkg install imagemagick/n
-pkg install ffmpeg/n
-pkg install yarn/n
-
+Run ini di termux lo, dari atas y:
+```
+pkg update && pkg upgrade
+pkg install git
+pkg install nodejs
+pkg install imagemagick
+pkg install ffmpeg
+pkg install yarn
+```
 Lanjut command buat run bot -------------------
-
-git clone https://github.com/NocX-Chan/Testing-Doang /n
-cd Testing-Doang/n
+```
+git clone https://github.com/NocX-Chan/Testing-Doang
+cd Testing-Doang
 yarn
-
+```
